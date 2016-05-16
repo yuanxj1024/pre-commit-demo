@@ -1,0 +1,14 @@
+{
+  "name": "pre-commit-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pre-commit"
+  ],
+  "author": "yuanxj1024",
+  "license": "ISC"
+}
