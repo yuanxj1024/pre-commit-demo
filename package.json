@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gulp start",
-    "eslint": "eslint app/js",
+    "eslint": "eslint app/js/ app/css/",
     "precommit": "npm run eslint"
   },
   "keywords": [
-    "pre-commit"
+    ""
   ],
   "author": "yuanxj1024",
   "license": "ISC",
