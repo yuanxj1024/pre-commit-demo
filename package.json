@@ -10,5 +10,8 @@
     "pre-commit"
   ],
   "author": "yuanxj1024",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "pre-commit": "^1.1.3"
+  }
 }
