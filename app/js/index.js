@@ -4,7 +4,6 @@
  * @date    2016-05-16 12:15:14
  * @version $Id$
  */
-
 var View;
 var page;
 
