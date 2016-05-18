@@ -15,7 +15,8 @@
 
 ```
 
-试着去修改`/js/`下的文件进行commit就能看到下过。
+试着去修改`/js/`下的文件进行commit就能看到类似下图：
+![pre-commit result](http://7xix26.com1.z0.glb.clouddn.com/pre-commit.png)
 
 
  
